@@ -33,3 +33,5 @@
 ```
 
 - Chỉ cần thêm thay đổi đó trong phần `cookies` là OK
+
+![3](image/3.png)
