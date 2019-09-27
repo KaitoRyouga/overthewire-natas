@@ -6,6 +6,8 @@
 
 - Thấy form login thì cứ thử vài câu *sql injection* cơ bản trước đã
 
+- Payload: `" OR "1" = "1`
+
 - ![2](image/2.png)
 
 - Bất ngờ là có flag luôn...
