@@ -6,7 +6,7 @@
 
 ![2](image/2.png)
 
-- Thực sự thì đây là bài `command injection` giống như bài `natas9`, chỉ là nguwoif ra đề chặn đi các kỹ tự thường để bypass đi rồi
+- Thực sự thì đây là bài `command injection` giống như bài `natas9`, chỉ là người ra đề chặn đi các k tự thường để bypass đi rồi
 
 - Nhưng chỉ chặn chừng đó chưa đủ, trong grep còn nhiều thủ thuật tìm kiếm khác. Chẳng hạn như thêm `.*` trước cụm từ cần tìm kiếm
 
